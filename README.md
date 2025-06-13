@@ -1,4 +1,5 @@
 # Excel Portfolio
+Welcome to my Excel Portfolio, where I showcase the Excel skills I've learned as a data analyst.
 
 ## Project
 ---
